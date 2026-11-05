@@ -1,0 +1,1 @@
+const i=[{role:"planner",responsibility:"读需求，定下做成什么样"},{role:"writer",responsibility:"按约定写正文"},{role:"illustrator",responsibility:"给需要的页配图"},{role:"layout",responsibility:"排成一页页幻灯片"},{role:"reviewer",responsibility:"挑问题，退回修改"},{role:"finalizer",responsibility:"拍板，交给你"}];export{i as default};
